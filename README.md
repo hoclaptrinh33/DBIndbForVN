@@ -26,6 +26,6 @@ Dự án bao gồm các bảng chính sau:
 
 ## Cách sử dụng
 
-1. Chạy script SQL trong thư mục `oracle-db-creator/references/-- 1.sql` để tạo cấu trúc cơ sở dữ liệu, trigger, package và dữ liệu mẫu.
+1. Chạy script SQL trong thư mục `DBIndbForVN.sql` để tạo cấu trúc cơ sở dữ liệu, trigger, package và dữ liệu mẫu.
 2. Sử dụng các user đã được tạo sẵn (`viewer_01`, `content_mgr_01`) để kiểm tra phân quyền.
 3. Chạy các đoạn script test ở cuối file để kiểm tra các nghiệp vụ.
